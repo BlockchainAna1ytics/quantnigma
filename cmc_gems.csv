@@ -1,0 +1,62 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,2596,1528373984,,CK USD,,-0.04,0.21,0.53,0.979009,97591300,1361,CKUSD,,ckusd,,
+,1910,1528373966,,ATMCoin,,0.16,0.06,2.97,3.86412,33670900,1362,ATMC,10000000000,atmcoin,https://www.atmcoin.com/website/inicio,
+,2840,1528373989,,QuarkChain,,-0.44,-10.48,,0.186893,27837900,1363,QKC,10000000000,quarkchain,https://quarkchain.io/,https://github.com/QuarkChain
+,2456,1528373981,,OFCOIN,,-0.61,16.72,18.17,0.00130152,24143100,1364,OF,51200000000,ofcoin,http://www.ofbank.com/,https://github.com/ofproject/
+,2826,1528373989,,ZIP,,17.52,53.23,49.19,0.00352199,23756000,1365,ZIP,1E+11,zip,http://zipper.io/,
+,2599,1528373985,,Noah Coin,,-2.57,-15.07,20.43,0.00917385,12874200,1366,NOAH,91584000000,noah-coin,https://noahcoin.org/,
+,2691,1528373986,1E+11,Penta,,0.04,1.15,13.01,0.022632,11966600,1367,PNT,50000000000,penta,https://www.penta.global/,https://github.com/pentaglobal
+,2767,1528373988,,APIS,,-1.05,-4.06,6.56,0.0108433,11238600,1368,APIS,9520000000,apis,https://apisplatform.io/,https://github.com/Oxchild/crowdsale
+,2661,1528373985,,Tripio,,0.15,3.23,-3.87,0.0180226,10889800,1369,TRIO,5000000000,tripio,https://trip.io/,https://github.com/thetripio
+,2760,1528373988,,Libra Credit,,-0.28,3.59,-3.74,0.219883,10220400,1370,LBA,1000000000,libra-credit,https://www.libracredit.io/,https://github.com/libracredit
+,2701,1528373987,,TrustNote,,-0.06,-3.66,-19.01,0.0720611,9012300,1371,TTT,,trustnote,https://trustnote.org/,https://github.com/trustnote
+,2725,1528373987,,Skrumble Network,,-1.33,-8.52,-1.18,0.063357,8305800,1372,SKM,1500000000,skrumble-network,https://skrumble.network/,
+,2358,1528373977,,Content and AD Network,,-0.11,-1.72,-15.25,0.0173296,7479200,1373,CAN,1500000000,content-and-ad-network,http://mobipromo.io/cn/,
+,2379,1528373977,,Kcash,,-0.12,0.07,-4.64,0.120395,6081540,1374,KCASH,1000000000,kcash,https://www.kcash.com/,
+,2483,1528373982,,OceanChain,,-0.32,1.75,-5.35,0.00424993,5442620,1375,OC,,oceanchain,https://oceanchain.club/,
+,2603,1528373984,,Pundi X,,-0.64,-4.95,-22.33,0.00855211,4628540,1376,NPXS,68179231883,pundi-x,https://pundix.com/,
+,2838,1528373989,,PCHAIN,,-0.09,-9.09,,0.18212,4028220,1377,PAI,2100000000,pchain,https://pchain.org/,https://github.com/pchain-org
+,2470,1528373980,,CoinMeet,,-1,1.95,-3.67,0.0529127,3558000,1378,MEET,400000000,coinmeet,https://coinmeet.io/,
+,2734,1528373987,,EduCoin,,0.3,6.55,-5.51,0.00293327,3512480,1379,EDU,15000000000,edu-coin,http://www.edu.one,
+,2738,1528373988,,Super Game Chain,,1.51,1.39,5.23,0.00238488,3489910,1380,SGCC,20000000000,super-game-chain,http://www.sgchain.io,https://github.com/JayNarv/sgc-gamebook
+,2432,1528373980,,StarChain,,6.06,6.9,-4.61,0.07338,3369660,1381,STC,1000000000,starchain,http://www.starchain.one/,
+,2438,1528373979,,Acute Angle Cloud,,0.24,1.3,4.33,0.112567,2667040,1382,AAC,1000000000,acute-angle-cloud,http://acuteangle.com/,
+,2414,1528373978,,RealChain,,-0.56,-2.07,-5.11,0.0391015,2080380,1383,RCT,1000000000,realchain,http://rcfund.org/,
+,2282,1528373974,21210000,Super Bitcoin,,-0.13,-0.01,-20.09,9.54724,2060510,1384,SBTC,,super-bitcoin,http://supersmartbitcoin.com/,https://github.com/superbitcoin/SuperBitcoin
+,2659,1528373986,,Dignity,,-3.73,-7.89,10.14,0.146688,2051120,1385,DIG,3000000000,dignity,https://cryptobontix.com/,
+,2842,1528373989,,Bankera,,-0.93,-14.46,,0.00841939,2046040,1386,BNK,25000000000,bankera,https://bankera.com/,https://github.com/Bankera-token/BNK-ETH-Contract
+,2771,1528373989,,RED,,0.23,-1.95,-4.41,0.1455,1915550,1387,RED,200000000,red,https://ico.red-lang.org/,https://github.com/red/red
+,2335,1528373976,21000000,Lightning Bitcoin,,0.21,-2.18,-13.69,33.0103,1896360,1388,LBTC,,lightning-bitcoin,http://lbtc.io/,https://github.com/lbtcio
+,2441,1528373979,,Molecular Future,,0.19,-0.59,5.59,0.340461,1626070,1389,MOF,100000000,molecular-future,http://www.molecular.cc/,
+,2727,1528373988,,Bezant,,1.7,2.46,0.27,0.134218,1564140,1390,BZNT,1000000000,bezant,https://bezant.io/,
+,2293,1528373976,21000000,United Bitcoin,,-2.31,-6.18,0.87,10.1338,1490590,1391,UBTC,21000000,united-bitcoin,http://ub.com/,https://github.com/UnitedBitcoin
+,2434,1528373979,,Maggie,,-0.17,-3.18,-20.44,0.0157464,1368750,1392,MAG,3200000000,maggie,http://maggie.vip/,
+,2708,1528373987,,Crowd Machine,,-0.4,-13.84,-9.01,0.0447577,1329730,1393,CMCT,2000000000,crowd-machine,https://crowdmachine.com,
+,2011,1528373968,,Tezos (Pre-Launch),,-0.02,3.21,0.72,5.04479,1286030,1394,XTZ,,tezos,https://www.tezos.com/,
+,2376,1528373979,,TopChain,,-0.11,-3.83,0.14,0.0339082,1265550,1395,TOPC,2100000000,topchain,http://www.topc.io/,
+,2733,1528373987,,Freyrchain,,-0.06,-0.05,9.27,0.0164419,1232910,1396,FREC,10000000000,freyrchain,http://www.freyrchain.org/,https://github.com/Freyrchain/FREC
+,2740,1528373988,,Influence Chain,,0.16,-5.51,-15.4,0.267005,1226540,1397,INC,1000000000,influence-chain,http://www.influencechain.org/,https://github.com/InfluenceChain
+,2762,1528373989,,Open Platform,,-0.29,-0.27,-6.75,0.188351,1147550,1398,OPEN,1000000000,open-platform,https://www.openfuture.io/,
+,2712,1528373987,,MyToken,,0.14,-2.24,5.37,0.0246171,934280,1399,MT,4000000000,mytoken,https://mytoken.io/en/,
+,2779,1528373989,,Level Up Coin,,-2.16,-0.31,1.1,0.0125027,886598,1400,LUC,1308800000,level-up,https://play2live.io,https://github.com/Play2Live/blockchain
+,2280,1528373975,,Filecoin [Futures],,0.02,3.01,4.82,9.1995,885589,1401,FIL,,filecoin,https://filecoin.io/,
+,2537,1528374282,,Gems ,,0.26,3.35,5.88,0.0138117,873315,1402,GEM,8000000000,gems-protocol,https://gems.org/,
+,2427,1528374280,,ChatCoin,,-0.73,-1.13,-5.21,0.0765599,723628,1403,CHAT,1000000000,chatcoin,http://www.openchat.co/,
+,2435,1528374280,,LightChain,,-2.81,3.95,-2.13,0.00119717,719843,1404,LIGHT,2.1E+11,lightchain,http://www.lightchain.one/,https://github.com/lightchainone
+,2827,1528374289,,Phantasma,,-0.91,-1.48,12.48,0.558343,702183,1406,SOUL,91137875,phantasma,https://phantasma.io/,https://github.com/PhantasmaProtocol
+,2693,1528374286,,Loopring [NEO],,0.29,-0.27,6.23,1.22455,701489,1407,LRN,139507605,loopring-neo,https://loopring.org,https://github.com/loopring
+,2281,1528374275,2.1E+11,BitcoinX,,-1.67,2.32,-14.05,0.0154274,712560,1405,BCX,1.67362E+11,bitcoinx,https://bcx.org/,https://github.com/bitcoinx-project/bitcoinx/releases
+,2736,1528374287,,InsurChain,,-2.13,1.95,-8.47,0.00156186,698170,1408,INSUR,20000000000,insurchain,http://www.insurchain.org/,https://github.com/insurchain
+,2393,1528374279,,AWARE,,-0.27,-1.85,-5.72,0.0292187,678272,1409,AWR,1000000000,aware,http://www.aware.bi/,https://github.com/AwareFoundation
+,2835,1528374289,,Endor Protocol,,-1.76,-10.12,,0.155842,653764,1411,EDR,1500000000,endor-protocol,https://www.endor.com/,https://github.com/EndorCoin
+,2440,1528374279,,Read,,4.36,-3.48,-5.96,0.0137069,662630,1410,READ,2100000000,read,https://read.lianzai.com/,
+,2361,1528374277,,Show,,-2.28,-5.39,-23.48,0.00401308,621855,1412,SHOW,10000000000,show,http://www.show.one/,
+,1497,1528374256,,Fargocoin,,0.02,2.13,5.91,4.21303,613365,1413,FRGC,529388114,fargocoin,https://fargocoin.org/,https://github.com/fargocoin
+,2488,1528374282,,ValueChain,,-2.21,1.78,-17.84,0.0551629,587669,1414,VLC,300000000,valuechain,http://valuechain.biz/,
+,2737,1528374287,,Global Social Chain,,1.06,-9.76,-12.84,0.114711,576165,1415,GSC,1000000000,global-social-chain,https://www.gsc.social,https://github.com/gscsocial/gsc-core
+,2741,1528374289,,Intelligent Investment Chain,,-1.8,-6.14,-14.1,0.00548911,573176,1416,IIC,21000000000,intelligent-investment-chain,http://www.iicoin.io/,https://github.com/iichain
+,1971,1528374268,,iQuant,,-2.29,-8.71,-6.13,0.0558549,542030,1417,IQT,100000000,iquant,http://www.5iquant.org/,https://github.com/IquantChain/
+,2356,1528374277,,CFun,,0.5,3.71,21.12,0.0114476,528591,1418,CFUN,900000000,cfun,https://www.cfunproject.com/,
+,2837,1528374289,,0xBitcoin,,-3.7,-10.54,,3.57415,517193,1419,0xBTC,20999984,0xbtc,https://0xbitcoin.org/,https://github.com/0xbitcoin/0xbitcoin-token
+,2593,1528374284,,Dragon Coins,,-5.06,-6.2,-34.19,0.291397,507443,1420,DRG,500000000,dragon-coins,https://drgtoken.io/,
+,2480,1528374281,,HalalChain,,-2.36,6.04,0.61,0.112822,500792,1421,HLC,1000000000,halalchain,http://www.hlc.com/,
