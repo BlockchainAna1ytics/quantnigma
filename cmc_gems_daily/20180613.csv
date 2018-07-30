@@ -1,0 +1,4 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,2855,1528869289,,CashBet Coin,,-3.84,-3.37,,0.314199,1511700.0,1376,CBC,430000000.0,cashbet-coin,https://coin.cashbet.com,
+,2849,1528869289,,Hurify,,6.1,5.22,,0.0744354,1188730.0,1383,HUR,273125000.0,hurify,https://hurify.co,https://github.com/HurifyPlatform/
+,2858,1528869289,,Couchain,,-3.41,6.18,,0.000292592,578731.0,1402,COU,31000000000.0,couchain,https://couchain.io/,

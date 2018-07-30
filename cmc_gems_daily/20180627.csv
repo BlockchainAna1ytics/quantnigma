@@ -1,0 +1,3 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,2874,1530046470,,Aurora,,-1.32,,,0.0535775,839798.0,1375,AOA,10000000000.0,aurora,https://www.aurorachain.io/,
+,2873,1530046470,,Metronome,,0.94,,,2.24665,729096.0,1382,MET,10005760.0,metronome,https://www.metronome.io/,https://github.com/autonomoussoftware
