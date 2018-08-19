@@ -1,0 +1,5 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,2934,1533030886,,BitKan,,-1.03,,,0.0093381806,4402307.71740817,1412,KAN,10000000000.0,bitkan,http://www.kan.land/,
+,1944,1533030874,,Moving Cloud Coin,,-4.29,,,0.0400737401,491496.197234631,1447,MCC,1000000000.0,moving-cloud-coin,https://www.mcsports.cn/mcblock/en/,https://github.com/MovingCloudChain/mcc
+,2383,1533030881,100000000000.0,Jingtum Tech,,0.24,-14.34,-36.28,0.0019604845,108182.301324234,1499,SWTC,599999999999.0,jingtum-tech,https://www.jingtum.com/,
+,2992,1533030886,,Apollo Currency,,1.0,-11.28,,0.0017433126,106598.45477192,1502,APL,21165096531.0,apollo-currency,https://www.apollocurrency.com/,https://github.com/ApolloFoundation/Apollo

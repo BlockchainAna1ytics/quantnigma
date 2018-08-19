@@ -1,0 +1,8 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,3055,1534341423,,EBCoin,,5.08,10.49,23.56,0.0027679004,108955.544318467,1553,EBC,10295055166.0,ebcoin,https://ebcoin.io,
+,2952,1534341422,,Gold Bits Coin,,-0.36,17.66,-18.62,0.5212280643,107512.690425023,1554,GBC,1000000000.0,gold-bits-coin,https://goldbitscoin.com/,
+,3056,1534341423,,Thore Cash,,0.45,25.02,-5.56,7.7692105842,106351.154306451,1556,TCH,111111111.0,thore-cash,https://www.thorecash.com/thorecash.html,https://etherscan.io/token/0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5
+,3113,1534341484,,InterCrone,,-0.45,13.63,85.25,0.6280905933,96585.1255080959,1558,ICR,16162188.0,intercrone,https://www.intercrone.com/,
+,2911,1534341483,,ORS Group,,0.95,3.2,20.19,0.0441381227,96020.0223824076,1560,ORS,557670520.0,ors-group,https://www.orsgroup.io/,https://github.com/ORSGroup/ORS-Tokensale
+,3130,1534341484,21000000.0,Forkcoin,,-6.56,-2.12,,0.622164018,92639.3753755909,1561,FORK,6680624.0,forkcoin,https://forkcoin.io/,https://github.com/fcoindev/fcoin
+,3064,1534341483,,EPLUS Coin,,0.18,16.72,-45.16,2.476562925,92007.1202010206,1562,EPLUS,168000000.0,eplus-coin,http://www.ep-coin.com/,https://github.com/epcoin

@@ -178,3 +178,81 @@ circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,
 ,2008,1532959295,30000000000.0,MSD,,0.0,36.76,37.86,0.0053595601,99757.4766901571,1502,MSD,6088400259.0,msd,https://mymsdspace.com/,
 
 
+
+,2934,1533030886,,BitKan,,-1.03,,,0.0093381806,4402307.71740817,1412,KAN,10000000000.0,bitkan,http://www.kan.land/,
+,1944,1533030874,,Moving Cloud Coin,,-4.29,,,0.0400737401,491496.197234631,1447,MCC,1000000000.0,moving-cloud-coin,https://www.mcsports.cn/mcblock/en/,https://github.com/MovingCloudChain/mcc
+,2383,1533030881,100000000000.0,Jingtum Tech,,0.24,-14.34,-36.28,0.0019604845,108182.301324234,1499,SWTC,599999999999.0,jingtum-tech,https://www.jingtum.com/,
+,2992,1533030886,,Apollo Currency,,1.0,-11.28,,0.0017433126,106598.45477192,1502,APL,21165096531.0,apollo-currency,https://www.apollocurrency.com/,https://github.com/ApolloFoundation/Apollo
+
+,2998,1533135047,,Vexanium,,2.34,,,0.0448522786,3105712.85192709,1418,VEX,1000000000.0,vexanium,https://www.vexanium.com/,https://github.com/vexanium
+,2997,1533135046,,DIPNET,,0.16,,,0.0050153924,754226.751851084,1434,DPN,10000000000.0,dipnet,http://www.dip.network/,
+,3026,1533135047,,Carlive Chain,,0.13,,,0.008906724,452675.684151772,1448,IOV,10000000000.0,carlive-chain,https://www.carlive.io,https://github.com/CarLiveChain/token-profile
+,2926,1533135107,,PRASM,,-0.68,-20.55,,0.003504382,239272.8864484,1478,PSM,4000000000.0,prasm,http://prasm.io/,https://github.com/PRASM-Network/PRASM
+,3040,1533135107,,CanonChain,,-1.94,,,0.0284060663,217684.111658022,1479,CZR,1618033988.0,cononchain,http://www.canonchain.com/,https://github.com/canonchain/canonchain
+,3019,1533135105,,Luna Stars,,-0.04,,,0.0005701305,210111.912217861,1481,LSTR,380000000.0,luna-stars,https://www.meetluna.com/,https://github.com/lunalabs/luna-smart-contract
+,1751,1533135099,410000000.0,ATC Coin,,-0.82,,,0.0097302276,95887.0121259505,1507,ATCC,205905762.0,atc-coin,http://www.atccoin.com/,https://github.com/atccoinofficial/ATCC
+
+,3058,1533226908,,Six Domain Chain,,-0.81,,,0.0178340532,3228951.19316287,1426,SDA,2000000000.0,six-domain-chain,https://www.sdchain.io/,https://github.com/SDChain/SDChain-Core
+,3053,1533226908,,YOU COIN,,-2.45,,,0.0255804047,693141.128613886,1444,YOU,2736000000.0,you-coin,http://youchain.cc/,
+,2999,1533226908,,Hdac,,-0.09,,,0.1042230313,610940.747155471,1446,HDAC,75931337.0,hdac,https://www.hdactech.com/,https://github.com/Hdactech/hdac
+,2924,1533226908,,FNKOS,,-0.73,-7.19,,0.1129619076,384564.536076246,1463,FNKOS,1000000000.0,fnkos,https://www.foglink.io/,https://github.com/foglink/contracts/
+,3016,1533226908,,NeuroChain,,-0.64,,,0.0255736686,200150.838450627,1486,NCC,657440000.0,neurochain,https://www.neurochaintech.io/,https://gitlab.com/neurochaintech
+,3001,1533226906,,KWHCoin,,-17.21,,,0.0064384994,161456.487481785,1495,KWH,46985982.0,kwhcoin,https://www.kwhcoin.com/,
+,3022,1533226908,,ZMINE,,-0.56,,,0.058543069,99075.6271606595,1514,ZMN,788881702.0,zmine,https://zmine.com,
+,2993,1533226908,1200000000.0,HorusPay,,-0.26,17.75,,0.0237821492,96390.3965514663,1517,HORUS,335813899.0,horuspay,https://horuspay.io,https://github.com/HorusPay/horustokenio
+
+,3147,1534341124,,HYCON,,0.65,3.53,,0.0344621892,4637043.34538188,1448,HYC,2925955449.0,hycon,https://hycon.io/,https://github.com/Team-Hycon/hycon-core
+,3096,1534341124,,Pundi X NEM,,1.52,6.96,34.35,0.0034715626,2936778.13279043,1450,NPXSXEM,9000000000.0,pundi-x-nem,https://pundix.com/,
+,3126,1534341124,,ProximaX,,0.38,4.97,,0.0039335867,2691754.05030539,1453,XPX,9000000000.0,proximax,https://proximax.io/,https://github.com/proximax-storage-foundry
+,3123,1534341124,,GSENetwork,,0.59,4.06,-13.53,0.007432135,2478816.60770385,1454,GSE,100000000000.0,gsenetwork,https://gse.network/,
+,3157,1534341184,,Smart Application Chain,,0.45,,,4.4395477129,1575093.99274672,1459,SAC,200000000.0,smart-application-chain,https://www.sachain.net,https://github.com/SACChain/SAC
+,3116,1534341184,,Insight Chain,,-0.7,-9.01,-22.1,0.425489577,1252890.70937451,1464,INB,10000000000.0,insight-chain,http://www.insightchain.io,
+,3175,1534341184,,TTC Protocol,,-0.39,,,0.0530436418,834206.307645599,1470,TTC,1000000000.0,ttc-protocol,http://www.ttc.eco,https://github.com/TTCECO/ico_smart_contract
+,3100,1534341184,,Ultra Salescloud,,0.73,11.75,-16.99,0.068169284,713058.059045918,1472,UST,1000000000.0,ultra-salescoud,http://www.ust.top/,https://github.com/ultraSalescloud/
+,3121,1534341183,,IGToken,,0.17,35.28,,0.0001461647,670791.616020241,1473,IG,10000000000.0,igtoken,http://igtoken.net/,https://github.com/IgniteIGT/token-profile
+,3086,1534341183,,Kora Network Token,,6.77,18.47,-22.59,0.0119664408,667342.125703287,1474,KNT,712500000.0,kora-network-token,https://kora.network/,https://github.com/koranetwork
+,3098,1534341183,,XcelToken,,-1.23,1.49,-16.77,0.0609784816,625030.365562298,1477,XCEL,50000000000.0,xceltoken,https://xceltoken.com/,https://github.com/xceltripofficial/xceltoken
+,3131,1534341184,,Thingschain,,7.19,12.3,,0.0002703166,609917.961547298,1478,TIC,100000000000.0,thingschain,https://thingschain.network/,https://github.com/TICnetwork/TIC-token
+,3060,1534341183,,Yuan Chain Coin,,0.1,6.98,-26.32,0.0090615264,535111.202836425,1481,YCC,10000000000.0,yuan-chain-coin,https://www.yuan.org/,
+,2871,1534341181,,Ubique Chain Of Things,,1.44,14.33,-25.62,0.0277835743,514368.702094378,1482,UCT,1050000000.0,ubique-chain-of-things,https://www.ucot.world/,https://github.com/UCOT/
+,3107,1534341184,,BingoCoin,,0.19,3.38,-36.37,0.2171052246,490398.662012165,1487,BOC,2000000000.0,bingocoin,https://www.bocfun.com,
+,3070,1534341183,,Litex,,-3.18,10.52,-23.61,0.0110158277,481703.243955902,1488,LXT,,litex,http://litex.io/,
+,3073,1534341183,,Esports Token,,0.9,3.43,-22.53,0.0113685635,465914.209887147,1490,EST,1000000000.0,esports-token,https://esportschain.org/,https://github.com/esportschain/esportstoken
+,3172,1534341184,21000000.0,LogisCoin,,1.72,,,6.2876412582,464581.235442056,1491,LGS,206604.0,logiscoin,https://logiscoin.cc/,https://github.com/lgsproject/LogisCoin
+,3117,1534341184,,Social Lending Token,,-0.03,-11.76,-39.42,0.0240797734,452359.252386436,1492,SLT,1000000000.0,social-lending-token,https://sociallending.io/,
+,3140,1534341184,,Ubex,,-0.23,7.43,,0.0133810969,447524.008033479,1494,UBEX,4000000000.0,ubex,https://www.ubex.com/,https://github.com/ubex-ai
+,3085,1534341183,,INO COIN,,0.3,3.0,-11.2,0.4603735031,410132.923904636,1498,INO,1000000000.0,ino-coin,https://inocoin.eu/,https://github.com/InoCoin
+,3074,1534341183,,Experience Token,,1.83,7.85,-3.58,0.001333075,395662.02030767,1499,EXT,10000000000.0,experience-token,https://ext.earth/,
+,3156,1534341184,,Airbloc,,3.06,-0.01,,0.0212890521,343025.161315747,1507,ABL,400000000.0,airbloc,https://www.airbloc.org/,https://github.com/airbloc/token
+,3090,1534341184,,Wiki Token,,0.54,9.39,-21.66,1.131661,331107.787589882,1510,WIKI,21000000.0,wiki-token,https://wikitoken.bitcoinwiki.org,
+,3076,1534341184,,Endorsit,,1.16,7.99,-27.64,0.0001971087,329375.625914827,1511,EDS,100000000000.0,endorsit,http://eds.ren/en/,
+,3134,1534341184,,ETERNAL TOKEN,,0.94,-7.31,,0.7708543665,273959.145825789,1515,XET,200000000.0,external-token,https://www.atom-solutions.jp/en/xetchange.php,https://github.com/atom-solutions/EternalToken
+,3120,1534341184,,OWNDATA,,0.15,3.27,-44.52,0.0002073641,255568.255017833,1519,OWN,110000000000.0,owndata,https://owndata.network/,https://github.com/owndata/owndata-token
+,3021,1534341183,,Intermational Crypto X,,0.1,7.57,-18.77,0.0061433789,205798.713017112,1530,INCX,599999990.0,intermational-crypto-x,https://internationalcryptox.io/,
+,3154,1534341184,,Davinci Coin,,0.03,2.99,,0.0073232018,190537.521490745,1533,DAC,880000000.0,davinci-coin,https://davinci.vision,
+,3061,1534341183,,Promotion Coin,,-0.49,0.79,-44.88,0.000360642,167012.764950078,1535,PC,8750000000.0,promotion-coin,http://www.pchain.io/,
+,3139,1534341184,,DxChain Token,,-1.56,14.35,,0.0003466461,160277.952446387,1537,DX,100000000000.0,dxchain-token,https://dxchain.com/,https://github.com/DxChainNetwork/dxchain-token-contracts
+,3091,1534341184,,Sapien,,0.14,4.6,-25.13,0.0046576537,157258.089459986,1538,SPN,500000000.0,sapien,https://www.sapien.network/,https://github.com/SapienNetwork
+,3110,1534341184,,NewsToken,,-13.66,-16.96,-38.04,0.0087382444,152907.551525267,1540,NEWOS,10000000000.0,newstoken,http://ne.ws/html/,https://github.com/news-chain/newschain/
+,3066,1534341183,,BitCapitalVendor,,0.86,5.23,-43.48,0.0044809889,149904.966476316,1542,BCV,1200000000.0,bitcapitalvendor,https://www.bitcv.com,https://github.com/bitcv
+,2863,1534341181,,HOLD,,2.27,44.4,,0.0033108547,126458.108573892,1546,HOLD,923453365.0,hold,https://hold.co,
+
+,3055,1534341423,,EBCoin,,5.08,10.49,23.56,0.0027679004,108955.544318467,1553,EBC,10295055166.0,ebcoin,https://ebcoin.io,
+,2952,1534341422,,Gold Bits Coin,,-0.36,17.66,-18.62,0.5212280643,107512.690425023,1554,GBC,1000000000.0,gold-bits-coin,https://goldbitscoin.com/,
+,3056,1534341423,,Thore Cash,,0.45,25.02,-5.56,7.7692105842,106351.154306451,1556,TCH,111111111.0,thore-cash,https://www.thorecash.com/thorecash.html,https://etherscan.io/token/0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5
+,3113,1534341484,,InterCrone,,-0.45,13.63,85.25,0.6280905933,96585.1255080959,1558,ICR,16162188.0,intercrone,https://www.intercrone.com/,
+,2911,1534341483,,ORS Group,,0.95,3.2,20.19,0.0441381227,96020.0223824076,1560,ORS,557670520.0,ors-group,https://www.orsgroup.io/,https://github.com/ORSGroup/ORS-Tokensale
+,3130,1534341484,21000000.0,Forkcoin,,-6.56,-2.12,,0.622164018,92639.3753755909,1561,FORK,6680624.0,forkcoin,https://forkcoin.io/,https://github.com/fcoindev/fcoin
+,3064,1534341483,,EPLUS Coin,,0.18,16.72,-45.16,2.476562925,92007.1202010206,1562,EPLUS,168000000.0,eplus-coin,http://www.ep-coin.com/,https://github.com/epcoin
+
+,3182,1534526947,,HitChain,,-2.43,44.57,,0.0006505269,5025019.47384891,1455,HIT,102400000000.0,hitchain,http://hitchain.org/index.html,
+,3012,1534527008,,VeThor Token,,-0.82,42.48,-56.59,0.0029676369,385607.072409081,1504,VTHO,,vethor-token,https://www.vechain.org/,https://github.com/vechain/thor
+,3181,1534527008,,ShowHand,,27.27,52.5,,1.86528e-05,305180.634798885,1512,HAND,403000000000.0,showhand,https://www.showhand.io,
+,3106,1534527008,,PKG Token,,-4.4,81.94,143.5,6.51945e-05,251746.685555856,1521,PKG,10000000000.0,pkg-token,http://pkgtoken.io/,
+,3184,1534527008,,Gold Poker,,0.37,5.78,,2.9948710576,250066.188998954,1522,GPKR,1485420.0,gold-poker,https://gold-poker.com/,https://github.com/GoldPoker/GoldPoker-coin
+,3021,1534527008,,InternationalCryptoX,,1.42,6.09,-12.87,0.0066270805,244356.029095398,1524,INCX,599999990.0,internationalcryptox,https://internationalcryptox.io/,
+,3109,1534527007,,Ordocoin,,-15.02,,,7.18312e-05,200930.586645003,1537,RDC,51000000000000.0,ordocoin,https://ordocoin.org,https://github.com/ordocoin
+,3179,1534527008,,Arbidex,,1.29,-21.86,,0.0501220329,195861.4034286,1538,ABX,25000000.0,arbidex,https://www.arbidex.uk.com,
+,3127,1534527006,,Themis,,2.18,6.96,-39.3,0.0054279819,163345.668259727,1549,GET,1000000000.0,themis,https://themis.network/,https://github.com/themis-network/go-themis
+,3083,1534527006,,Lina,,1.22,5.34,-18.37,0.0245820332,105458.525492768,1562,LINA,900000000.0,lina,https://lina.review,
+,2746,1534527006,,DasCoin,,2.1,-8.25,-15.79,0.0537264504,102532.737578264,1564,DASC,889868500.0,dascoin,https://dascoin.com/,https://github.com/techsolutions-ltd/dascoin-blockchain

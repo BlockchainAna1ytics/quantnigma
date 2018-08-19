@@ -4,7 +4,6 @@ import json
 import re
 import time
 import datetime
-import pandas as pd
 import numpy as np
 import requests
 from bs4 import BeautifulSoup
@@ -148,7 +147,7 @@ def generate_cmc_gems(i):
             i += 100
 
 def generate_cmc_gems_daily(i, gems_names):
-    filename = './cmc_gems_daily/' + datetime.datetime.today().strftime('%Y%m%d') + '.csv'
+    filename = './cmc_gems_daily/' + str(datetime.datetime.now()) + '.csv'
     with open(filename, 'w', encoding='utf-8', newline='') as csvfile:
         cmc_gems_daily_writer = csv.writer(csvfile)
         cmc_gems_daily_writer.writerow(['circulating_supply', 'ID', 'last_updated',\
@@ -157,6 +156,7 @@ def generate_cmc_gems_daily(i, gems_names):
                                  'price', 'volume_24h', 'rank',\
                                  'symbol', 'total_supply', 'website_slug', 'website', 'github'])
         start_ranks = [i]
+        n_written = 1
         with open(r'cmc_gems.csv', 'a') as f:
             cmc_gems_writer = csv.writer(f)
             cmc_gems_writer.writerow([])
@@ -196,6 +196,8 @@ def generate_cmc_gems_daily(i, gems_names):
                                                      symbol, total_supply, website_slug, website, github]
                             cmc_gems_daily_writer.writerow(results)
                             cmc_gems_writer.writerow(results)
+                            print('Have Written {} result(s) so far...'.format(n_written))
+                            n_written += 1
 
                         elif market_cap is not None:
                             start_ranks.append(c['rank']+1)
