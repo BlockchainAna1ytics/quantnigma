@@ -1,0 +1,6 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,3193,1534785054,,RRCoin,,0.44,,,0.0210627042,432579.665632489,1498,RRC,1800000000.0,rrcoin,http://www.rrchain.network/,https://github.com/RRNCIO/RRChain
+,3194,1534785053,,DPRating,,2.6,,,0.0007366611,254396.960825097,1519,RATING,10000000000.0,dprating,http://token.dprating.com/,
+,3190,1534785054,,Defense,,11.64,,,0.1154911972,208141.32529016,1529,DFS,628054.0,defense,https://defensebox.io,https://github.com/dfscoin/dfs
+,3115,1534785054,,Maximine Coin,,0.71,5.4,8.27,0.0042690003,202114.601722138,1532,MXM,16000000000.0,maximine-coin,https://maximine.io/,https://github.com/maximine
+,3146,1534785114,,CyberFM,,8.7,6.17,90.39,5.23643e-05,109726.858860436,1561,CYFM,102000000000.0,cyberfm,https://cyber-fm.com/,

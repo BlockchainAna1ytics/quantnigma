@@ -256,3 +256,14 @@ circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,
 ,3127,1534527006,,Themis,,2.18,6.96,-39.3,0.0054279819,163345.668259727,1549,GET,1000000000.0,themis,https://themis.network/,https://github.com/themis-network/go-themis
 ,3083,1534527006,,Lina,,1.22,5.34,-18.37,0.0245820332,105458.525492768,1562,LINA,900000000.0,lina,https://lina.review,
 ,2746,1534527006,,DasCoin,,2.1,-8.25,-15.79,0.0537264504,102532.737578264,1564,DASC,889868500.0,dascoin,https://dascoin.com/,https://github.com/techsolutions-ltd/dascoin-blockchain
+
+,3193,1534785054,,RRCoin,,0.44,,,0.0210627042,432579.665632489,1498,RRC,1800000000.0,rrcoin,http://www.rrchain.network/,https://github.com/RRNCIO/RRChain
+,3194,1534785053,,DPRating,,2.6,,,0.0007366611,254396.960825097,1519,RATING,10000000000.0,dprating,http://token.dprating.com/,
+,3190,1534785054,,Defense,,11.64,,,0.1154911972,208141.32529016,1529,DFS,628054.0,defense,https://defensebox.io,https://github.com/dfscoin/dfs
+,3115,1534785054,,Maximine Coin,,0.71,5.4,8.27,0.0042690003,202114.601722138,1532,MXM,16000000000.0,maximine-coin,https://maximine.io/,https://github.com/maximine
+,3146,1534785114,,CyberFM,,8.7,6.17,90.39,5.23643e-05,109726.858860436,1561,CYFM,102000000000.0,cyberfm,https://cyber-fm.com/,
+
+,2621,1534855366,,Consensus,,6.34,-1.59,4.98,0.0062272096,241401.103396857,1521,SEN,1650000000.0,consensus,https://consensus.ai/,
+,3187,1534855374,,Mozo Token,,0.53,,,0.0116208282,191323.431645275,1531,MOZO,5000000000.0,mozo-token,https://mozocoin.io/,https://github.com/Biglabs/Mozo-SC
+,2989,1534855374,,STASIS EURS,,-0.23,0.85,0.01,1.1537973201,114045.584439825,1554,EURS,12291000.0,stasis-eurs,https://stasis.net,https://github.com/STASISNET
+,3000,1534855374,,New Power Coin,,0.65,-9.43,-5.96,1.1189562753,110979.219482873,1556,NPW,11346789.0,new-power-coin,http://npw.live/,

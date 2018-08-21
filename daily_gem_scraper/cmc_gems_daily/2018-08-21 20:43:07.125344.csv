@@ -1,0 +1,5 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,2621,1534855366,,Consensus,,6.34,-1.59,4.98,0.0062272096,241401.103396857,1521,SEN,1650000000.0,consensus,https://consensus.ai/,
+,3187,1534855374,,Mozo Token,,0.53,,,0.0116208282,191323.431645275,1531,MOZO,5000000000.0,mozo-token,https://mozocoin.io/,https://github.com/Biglabs/Mozo-SC
+,2989,1534855374,,STASIS EURS,,-0.23,0.85,0.01,1.1537973201,114045.584439825,1554,EURS,12291000.0,stasis-eurs,https://stasis.net,https://github.com/STASISNET
+,3000,1534855374,,New Power Coin,,0.65,-9.43,-5.96,1.1189562753,110979.219482873,1556,NPW,11346789.0,new-power-coin,http://npw.live/,
