@@ -267,3 +267,14 @@ circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,
 ,3187,1534855374,,Mozo Token,,0.53,,,0.0116208282,191323.431645275,1531,MOZO,5000000000.0,mozo-token,https://mozocoin.io/,https://github.com/Biglabs/Mozo-SC
 ,2989,1534855374,,STASIS EURS,,-0.23,0.85,0.01,1.1537973201,114045.584439825,1554,EURS,12291000.0,stasis-eurs,https://stasis.net,https://github.com/STASISNET
 ,3000,1534855374,,New Power Coin,,0.65,-9.43,-5.96,1.1189562753,110979.219482873,1556,NPW,11346789.0,new-power-coin,http://npw.live/,
+
+,3196,1535180685,,KNOW,,0.53,-0.36,,0.0323417759,1099300.09644235,1499,KNOW,1000000000.0,know,https://kryptono.exchange,
+,3195,1535180685,,Credit Tag Chain,,0.65,-2.73,,0.0892304356,571303.639828811,1516,CTC,907940744.0,credit-tag-chain,https://www.credittag.io/,https://github.com/credittag/CreditTagChain
+,2960,1535180684,,Tourist Token,,-3.85,24.94,-0.09,7.25575e-05,253773.65839921,1549,TOTO,7599974663.0,tourist-token,https://globaltourist.io/,https://github.com/globaltouristteam/smartcontract
+,2655,1535180739,18400000.0,Monero Classic,,-0.25,-15.41,8.64,1.549775643,198279.383821483,1559,XMC,16016864.0,monero-classic,http://monero-classic.org/,https://github.com/monero-classic
+,3199,1535180744,,Cashberry Coin,,-0.62,-10.27,,1.8009075432,192398.336554997,1561,CBC,90005603.0,cashberry-coin,https://cashberycoin.com,https://github.com/CashberyCoin/cashberycoin
+,3202,1535180744,,QYNO,,-9.77,41.86,,0.285719449,157985.409127372,1568,QNO,5987925.0,qyno,https://www.qyno.org,https://github.com/qyno/qynocoin
+,3089,1535180743,,AVINOC,,-0.78,-14.86,-42.56,0.0111921055,112334.131377373,1585,AVINOC,1000000000.0,avinoc,https://www.avinoc.com/,https://github.com/AVINOCICO
+,2119,1535180733,,BTCMoon,,1.52,23.77,69.0,0.0035571196,107973.864201186,1587,BTCM,21000000.0,btcmoon,https://btcmoon.info/,
+,3220,1535180744,,DAV Token,,-5.18,11.9,,0.0089011011,103763.3007387,1590,DAV,1380276938.0,dav-token,https://dav.network/,https://github.com/DAVFoundation
+,2965,1535180740,,VikkyToken,,-4.58,84.21,34.17,0.0001014777,100343.411116825,1593,VIKKY,12000000000.0,vikkytoken,https://ico.vikky.io,https://github.com/vikkyteam/vikkyico
