@@ -1,0 +1,20 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,3305,1537972909,,Eden,,-6.11,0.99,-31.79,0.0308885913,15406556.5387748,1601,EDN,1000000000.0,eden,https://edenchain.io/,
+,3295,1537972909,,BUMO,,0.16,2.42,-2.38,0.2125166739,6022405.34931411,1603,BU,1500000000.0,bumo,https://www.bumo.io/,https://github.com/bumoproject
+,2843,1537972905,,Ether Zero,,-0.14,-6.53,0.46,0.1521595872,963973.208929755,1617,ETZ,194000000.0,ether-zero,https://etherzero.org/,https://github.com/etherzero-org
+,3282,1537972910,,Ti-Value,,0.2,5.25,9.6,0.0581117236,748508.402853752,1620,TV,210000000.0,ti-value,http://t.top/en,https://github.com/tivalueproject
+,3245,1537972906,,Ubcoin Market,,-0.37,6.16,-4.46,0.0100757322,449950.348406279,1631,UBC,633837701.0,ubcoin-market,https://ubcoin.io/en,https://github.com/ubcoin/ubcoin
+,3249,1537972909,,Usechain Token,,-0.23,-11.63,-10.75,0.0017811614,397598.259309275,1634,USE,20000000000.0,usechain-token,https://www.usechain.net/,
+,3028,1537972905,,Formosa Financial,,1.73,4.63,33.64,0.0084154545,344159.124791552,1642,FMF,2000000000.0,formosa-financial,https://www.formosa.financial/,https://github.com/formosafinancial
+,3309,1537972909,20000000.0,Concierge Coin,,-1.06,-60.76,-76.02,1.2445664491,318258.174738033,1644,CCC,384844.0,concierge-coin,http://www.conciergecoin.net/,https://github.com/ConciergeCoin/Concierge
+,3341,1537972905,,Phonecoin,,-10.83,,,3.1609897893,284669.66917291,1652,PHON,609920.0,phonecoin,http://phonecoin.space/,https://github.com/phonecoin-PHON
+,3345,1537972907,,DAPS Token,,-13.3,,,0.0001954818,265596.426283457,1655,DAPS,60000000000.0,daps-token,https://dapscoin.com/,https://github.com/DAPScoin/
+,3111,1537972967,,PayDay Coin,,0.04,21.76,93.78,1.9515990714,256967.925738645,1657,PDX,38421158.0,payday-coin,https://paydaycoin.io/,https://github.com/PayDayCoinIo/
+,3317,1537972967,,Cryptrust,,-2.56,-36.05,,4.80537e-05,248917.529584309,1660,CTRT,8966516684.0,cryptrust,https://cryptrust.io,https://github.com/cryptrusten
+,3283,1537972969,,FOIN,,0.39,0.02,6.1,582.221172424,216273.420630523,1665,FOIN,90367534.0,foin,https://foin.io/,https://github.com/foinio/foin
+,3186,1537972966,,Zen Protocol,,-1.56,-0.29,5.73,0.4153864588,167073.69022146,1676,ZP,21603550.0,zen-protocol,https://www.zenprotocol.com/,https://gitlab.com/zenprotocol/zenprotocol
+,3343,1537972969,,ANON,,3.83,,,0.858487235,162436.285847589,1679,ANON,19961616.0,anon,https://www.anonfork.io/,https://github.com/anonymousbitcoin
+,3292,1537972969,,CariNet,,-0.0,1.48,3.06,0.0341305638,151085.013012163,1683,CIT,1000000000.0,carinet,http://www.carinet.io/,
+,3340,1537972968,,Mallcoin,,-0.06,,,0.0684159037,140744.774884211,1687,MLC,227056684.0,mallcoin,https://flogmall.com,
+,3281,1537972969,,Quanta Utility Token,,-2.56,28.26,31.17,0.0003841816,140508.062518448,1688,QNTU,120000000000.0,quanta-utility-token,https://www.quantaplc.im/,
+,3320,1537972968,,TCOIN,,-0.85,22.33,,0.2857708107,130572.435251713,1694,TCN,74488866.0,tcoin,https://tcoin.eu/,https://github.com/Tcoin-dev/tcoin

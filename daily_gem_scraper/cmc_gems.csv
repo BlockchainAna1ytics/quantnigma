@@ -278,3 +278,51 @@ circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,
 ,2119,1535180733,,BTCMoon,,1.52,23.77,69.0,0.0035571196,107973.864201186,1587,BTCM,21000000.0,btcmoon,https://btcmoon.info/,
 ,3220,1535180744,,DAV Token,,-5.18,11.9,,0.0089011011,103763.3007387,1590,DAV,1380276938.0,dav-token,https://dav.network/,https://github.com/DAVFoundation
 ,2965,1535180740,,VikkyToken,,-4.58,84.21,34.17,0.0001014777,100343.411116825,1593,VIKKY,12000000000.0,vikkytoken,https://ico.vikky.io,https://github.com/vikkyteam/vikkyico
+
+,3262,1536857387,,CYCLEAN,,8.01,1.42,,0.022199521,9010750.71580141,1551,CCL,4000000000.0,cyclean,https://cyclean.io,https://github.com/cycleanio/
+,3143,1536857443,,Pecunio,,0.81,26.37,-38.97,0.0554532985,779410.470007376,1574,PCO,100000000.0,pecunio,https://pecun.io,https://github.com/pecunio-official/pco-token
+,3253,1536857385,,eosBLACK,,409.48,339.43,,0.4154832033,599907.941809149,1581,BLACK,3000000000.0,eosblack,https://eosblack.io/,
+,3105,1536857444,,Atlantis Blue Digital Token,,-0.25,9.22,31.19,0.0169722579,520176.481345669,1584,ABDT,399998765.0,atlantis-blue-digital-token,https://atlantisblue.org,
+,3252,1536857444,,ShineChain,,-2.28,3.84,,0.0015052255,488849.076852758,1589,SHE,5000000000.0,shinechain,,https://github.com/ShineChain
+,3220,1536857386,,DAV Coin,,-2.65,6.76,-26.71,0.0077406288,464392.436115586,1592,DAV,1380276938.0,dav-coin,https://dav.network/,https://github.com/DAVFoundation
+,3237,1536857386,,Timicoin,,27.51,25.78,7.35,0.078856592,282655.620458577,1605,TMC,309262465.0,timicoin,https://timicoin.io/,https://github.com/timihealth/timicoin
+,3142,1536857442,,BaaSid,,-7.39,69.26,94.4,0.0022741465,265440.757546026,1608,BAAS,10000000000.0,baasid,https://www.baasid.com/#token,
+,3155,1536857385,,Quant,,3.64,20.27,25.54,0.7943444665,263230.309839401,1610,QNT,45467000.0,quant,https://quant.network/,https://github.com/quantnetwork/eth-contract-metadata
+,3236,1536857386,,WinToken,,5.69,12.24,-31.19,0.0005000138,256668.814845876,1613,WIN,21000000000.0,wintoken,http://www.winchainos.com/,https://github.com/WinchainOS
+,3210,1536857385,,MIB Coin,,0.11,2.68,-56.55,0.0565447073,232514.186523944,1616,MIB,300000000.0,mib-coin,https://www.mibcoin.io/,
+,3004,1536857386,,Volt,,-0.23,-12.43,40.62,0.0015465441,226446.735742198,1619,ACDC,4000000000.0,volt,https://volttech.io/,
+,3272,1536857387,,Coin2Play,,-5.01,,,0.315862709,179230.593504695,1629,C2P,1509818.0,coin2play,https://coin2play.io/,https://github.com/Coin2Play/
+,3267,1536857386,,Project Coin,,-8.63,-53.73,,3.6531964333,174249.877020352,1630,PRJ,807529.0,project-coin,https://projectcoin.net,https://github.com/projectcoincore/ProjectCoin
+,3259,1536857384,,YouLive Coin,,2.04,6.53,,0.0005311463,150494.334292878,1635,UC,10000000000.0,youlive-coin,http://www.youlive.io/,
+,3261,1536857385,,EvenCoin,,-2.36,9.63,,0.0389461936,113137.569113575,1645,EVN,21951327.0,evencoin,https://www.evencoin.io,https://github.com/evencoinevn/Evencoin
+,3258,1536857384,,BitUP Token,,1.39,4.06,,0.0071353705,112544.867067844,1647,BUT,1000000000.0,bitup-token,https://bitup.com/,
+,3260,1536857385,,AMO Coin,,0.4,13.88,,0.0017180016,95768.1226491053,1653,AMO,19679012762.0,amo-coin,https://www.amo.foundation/,https://github.com/AMO-Project/AMO-Contracts
+,3277,1536857386,,vSportCoin,,1.35,,,0.0036995822,93432.9169815921,1654,VSC,2500000000.0,vsportcoin,http://vsport.io/,
+
+,3305,1537972909,,Eden,,-6.11,0.99,-31.79,0.0308885913,15406556.5387748,1601,EDN,1000000000.0,eden,https://edenchain.io/,
+,3295,1537972909,,BUMO,,0.16,2.42,-2.38,0.2125166739,6022405.34931411,1603,BU,1500000000.0,bumo,https://www.bumo.io/,https://github.com/bumoproject
+,2843,1537972905,,Ether Zero,,-0.14,-6.53,0.46,0.1521595872,963973.208929755,1617,ETZ,194000000.0,ether-zero,https://etherzero.org/,https://github.com/etherzero-org
+,3282,1537972910,,Ti-Value,,0.2,5.25,9.6,0.0581117236,748508.402853752,1620,TV,210000000.0,ti-value,http://t.top/en,https://github.com/tivalueproject
+,3245,1537972906,,Ubcoin Market,,-0.37,6.16,-4.46,0.0100757322,449950.348406279,1631,UBC,633837701.0,ubcoin-market,https://ubcoin.io/en,https://github.com/ubcoin/ubcoin
+,3249,1537972909,,Usechain Token,,-0.23,-11.63,-10.75,0.0017811614,397598.259309275,1634,USE,20000000000.0,usechain-token,https://www.usechain.net/,
+,3028,1537972905,,Formosa Financial,,1.73,4.63,33.64,0.0084154545,344159.124791552,1642,FMF,2000000000.0,formosa-financial,https://www.formosa.financial/,https://github.com/formosafinancial
+,3309,1537972909,20000000.0,Concierge Coin,,-1.06,-60.76,-76.02,1.2445664491,318258.174738033,1644,CCC,384844.0,concierge-coin,http://www.conciergecoin.net/,https://github.com/ConciergeCoin/Concierge
+,3341,1537972905,,Phonecoin,,-10.83,,,3.1609897893,284669.66917291,1652,PHON,609920.0,phonecoin,http://phonecoin.space/,https://github.com/phonecoin-PHON
+,3345,1537972907,,DAPS Token,,-13.3,,,0.0001954818,265596.426283457,1655,DAPS,60000000000.0,daps-token,https://dapscoin.com/,https://github.com/DAPScoin/
+,3111,1537972967,,PayDay Coin,,0.04,21.76,93.78,1.9515990714,256967.925738645,1657,PDX,38421158.0,payday-coin,https://paydaycoin.io/,https://github.com/PayDayCoinIo/
+,3317,1537972967,,Cryptrust,,-2.56,-36.05,,4.80537e-05,248917.529584309,1660,CTRT,8966516684.0,cryptrust,https://cryptrust.io,https://github.com/cryptrusten
+,3283,1537972969,,FOIN,,0.39,0.02,6.1,582.221172424,216273.420630523,1665,FOIN,90367534.0,foin,https://foin.io/,https://github.com/foinio/foin
+,3186,1537972966,,Zen Protocol,,-1.56,-0.29,5.73,0.4153864588,167073.69022146,1676,ZP,21603550.0,zen-protocol,https://www.zenprotocol.com/,https://gitlab.com/zenprotocol/zenprotocol
+,3343,1537972969,,ANON,,3.83,,,0.858487235,162436.285847589,1679,ANON,19961616.0,anon,https://www.anonfork.io/,https://github.com/anonymousbitcoin
+,3292,1537972969,,CariNet,,-0.0,1.48,3.06,0.0341305638,151085.013012163,1683,CIT,1000000000.0,carinet,http://www.carinet.io/,
+,3340,1537972968,,Mallcoin,,-0.06,,,0.0684159037,140744.774884211,1687,MLC,227056684.0,mallcoin,https://flogmall.com,
+,3281,1537972969,,Quanta Utility Token,,-2.56,28.26,31.17,0.0003841816,140508.062518448,1688,QNTU,120000000000.0,quanta-utility-token,https://www.quantaplc.im/,
+,3320,1537972968,,TCOIN,,-0.85,22.33,,0.2857708107,130572.435251713,1694,TCN,74488866.0,tcoin,https://tcoin.eu/,https://github.com/Tcoin-dev/tcoin
+
+,3351,1538323070,,ZB,,-0.32,1.08,,0.2630805964,113480024.892394,1597,ZB,2100000000.0,zb,https://www.zb.com/,
+,3330,1538323067,,Paxos Standard Token,,0.91,0.68,,1.0055499709,23432892.5263511,1599,PAX,13166387.0,paxos-standard-token,https://paxos.com/standard,https://github.com/paxosglobal/pax-contracts
+,3217,1538323071,,ONG,,-0.83,-21.08,198.21,1.6121068591,4003120.45273438,1606,ONG,1000000000.0,ong,https://ont.io/,
+,3359,1538323070,,WITChain,,6.21,,,0.0001888728,696082.397929797,1626,WIT,2000000000.0,witchain,http://www.witchain.org,https://github.com/witchaindev
+,3356,1538323070,,The Midas Touch Gold,,0.33,-21.84,,0.0455660178,528061.20240734,1634,TMTG,10000000000.0,the-midas-touch-gold,https://dgex.io/,https://github.com/DigitalGoldExchange/The-Midas-Touch-Gold
+,3352,1538323069,,MidasProtocol,,3.67,-8.63,,0.0244192662,486697.594656234,1638,MAS,500000000.0,midasprotocol,https://midasprotocol.io/,
+,3119,1538323068,,Alchemint Standards,,-4.28,-0.36,-10.06,0.0081109786,194969.412670055,1670,SDS,1000000000.0,alchemint-standards,http://alchemint.io/#/home,https://github.com/Alchemint/alchemintToken

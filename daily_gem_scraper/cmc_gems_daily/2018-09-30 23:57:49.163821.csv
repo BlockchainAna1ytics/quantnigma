@@ -1,0 +1,8 @@
+circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
+,3351,1538323070,,ZB,,-0.32,1.08,,0.2630805964,113480024.892394,1597,ZB,2100000000.0,zb,https://www.zb.com/,
+,3330,1538323067,,Paxos Standard Token,,0.91,0.68,,1.0055499709,23432892.5263511,1599,PAX,13166387.0,paxos-standard-token,https://paxos.com/standard,https://github.com/paxosglobal/pax-contracts
+,3217,1538323071,,ONG,,-0.83,-21.08,198.21,1.6121068591,4003120.45273438,1606,ONG,1000000000.0,ong,https://ont.io/,
+,3359,1538323070,,WITChain,,6.21,,,0.0001888728,696082.397929797,1626,WIT,2000000000.0,witchain,http://www.witchain.org,https://github.com/witchaindev
+,3356,1538323070,,The Midas Touch Gold,,0.33,-21.84,,0.0455660178,528061.20240734,1634,TMTG,10000000000.0,the-midas-touch-gold,https://dgex.io/,https://github.com/DigitalGoldExchange/The-Midas-Touch-Gold
+,3352,1538323069,,MidasProtocol,,3.67,-8.63,,0.0244192662,486697.594656234,1638,MAS,500000000.0,midasprotocol,https://midasprotocol.io/,
+,3119,1538323068,,Alchemint Standards,,-4.28,-0.36,-10.06,0.0081109786,194969.412670055,1670,SDS,1000000000.0,alchemint-standards,http://alchemint.io/#/home,https://github.com/Alchemint/alchemintToken
