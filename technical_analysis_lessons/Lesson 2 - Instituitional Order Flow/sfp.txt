@@ -1,9 +1,0 @@
-Swing Failure Pattern (SFP)
-
-TL;DR:
-
-There's liquidity (pending orders) above/below deep swing points. Price will often trade through that swing point and come back. Pros get their liquidity & traders get trapped.
-
-P.S. not the best example in the world as deeper swings with more space tend to attract more orders, but hopefully makes the concept clear anyway
-
-The deeper the swing (stands out more, espec on higher time frames) the more likely that traders see it = more orders around it
