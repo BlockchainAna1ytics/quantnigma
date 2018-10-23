@@ -35,12 +35,8 @@ def generate_cmc_web():
             name = tr.find('a', {'class': 'currency-name-container'}).text
             symbol = tr.find('span', {'class': 'currency-symbol'}).text
             marketcap_usd = tr.select('td.no-wrap.market-cap.text-right')[0].text.replace('\n', '')
-            print(marketcap_usd)
             price = tr.find('a', {'class': 'price'}).text
             volume = tr.find('a', {'class': 'volume'}).text
-            # 1h = tr.find('td', {'class': ['no-wrap', 'percent-change', 'text-right'], 'data-timespan': '1h'}).text
-            # 24h = tr.find('td', {'class': ['no-wrap', 'percent-change', 'text-right'], 'data-timespan': '24h'}).text
-            # 7d = tr.find('td', {'class': ['no-wrap', 'percent-change', 'text-right'], 'data-timespan': '7d'}).text
             print('Scraping {}, {}/{}'.format(name, i, trs_len))
             coin_url = tr.find('a').get('href')
             coin_url = 'https://coinmarketcap.com' + coin_url
