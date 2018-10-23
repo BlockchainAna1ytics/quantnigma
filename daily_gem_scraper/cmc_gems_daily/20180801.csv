@@ -1,8 +1,0 @@
-circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
-,2998,1533135047,,Vexanium,,2.34,,,0.0448522786,3105712.85192709,1418,VEX,1000000000.0,vexanium,https://www.vexanium.com/,https://github.com/vexanium
-,2997,1533135046,,DIPNET,,0.16,,,0.0050153924,754226.751851084,1434,DPN,10000000000.0,dipnet,http://www.dip.network/,
-,3026,1533135047,,Carlive Chain,,0.13,,,0.008906724,452675.684151772,1448,IOV,10000000000.0,carlive-chain,https://www.carlive.io,https://github.com/CarLiveChain/token-profile
-,2926,1533135107,,PRASM,,-0.68,-20.55,,0.003504382,239272.8864484,1478,PSM,4000000000.0,prasm,http://prasm.io/,https://github.com/PRASM-Network/PRASM
-,3040,1533135107,,CanonChain,,-1.94,,,0.0284060663,217684.111658022,1479,CZR,1618033988.0,cononchain,http://www.canonchain.com/,https://github.com/canonchain/canonchain
-,3019,1533135105,,Luna Stars,,-0.04,,,0.0005701305,210111.912217861,1481,LSTR,380000000.0,luna-stars,https://www.meetluna.com/,https://github.com/lunalabs/luna-smart-contract
-,1751,1533135099,410000000.0,ATC Coin,,-0.82,,,0.0097302276,95887.0121259505,1507,ATCC,205905762.0,atc-coin,http://www.atccoin.com/,https://github.com/atccoinofficial/ATCC

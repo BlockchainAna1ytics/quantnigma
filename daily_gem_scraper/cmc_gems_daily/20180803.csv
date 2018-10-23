@@ -1,9 +1,0 @@
-circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
-,3058,1533226908,,Six Domain Chain,,-0.81,,,0.0178340532,3228951.19316287,1426,SDA,2000000000.0,six-domain-chain,https://www.sdchain.io/,https://github.com/SDChain/SDChain-Core
-,3053,1533226908,,YOU COIN,,-2.45,,,0.0255804047,693141.128613886,1444,YOU,2736000000.0,you-coin,http://youchain.cc/,
-,2999,1533226908,,Hdac,,-0.09,,,0.1042230313,610940.747155471,1446,HDAC,75931337.0,hdac,https://www.hdactech.com/,https://github.com/Hdactech/hdac
-,2924,1533226908,,FNKOS,,-0.73,-7.19,,0.1129619076,384564.536076246,1463,FNKOS,1000000000.0,fnkos,https://www.foglink.io/,https://github.com/foglink/contracts/
-,3016,1533226908,,NeuroChain,,-0.64,,,0.0255736686,200150.838450627,1486,NCC,657440000.0,neurochain,https://www.neurochaintech.io/,https://gitlab.com/neurochaintech
-,3001,1533226906,,KWHCoin,,-17.21,,,0.0064384994,161456.487481785,1495,KWH,46985982.0,kwhcoin,https://www.kwhcoin.com/,
-,3022,1533226908,,ZMINE,,-0.56,,,0.058543069,99075.6271606595,1514,ZMN,788881702.0,zmine,https://zmine.com,
-,2993,1533226908,1200000000.0,HorusPay,,-0.26,17.75,,0.0237821492,96390.3965514663,1517,HORUS,335813899.0,horuspay,https://horuspay.io,https://github.com/HorusPay/horustokenio

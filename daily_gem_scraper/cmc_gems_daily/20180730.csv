@@ -1,5 +1,0 @@
-circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
-,2834,1532959243,,ContractNet,,0.02,15.51,30.96,0.145612274,712677.9143,1440,CNET,23000000,contractnet,https://contractnet.com/,https://github.com/ContractNetLabs/go-ContractNet
-,2994,1532959306,,Bitcoin File,,2.14,6.38,,0.005905025,289602.5464,1471,BIFI,21050000000,bitcoin-file,,https://github.com/bitcoinfile/bitcoinfile
-,2991,1532959307,175000000,NIX,,-3.66,-4.02,,0.373919811,105733.0121,1498,NIX,39376127,nix,https://nixplatform.io/,https://github.com/NixPlatform/NixCore
-,2008,1532959295,30000000000,MSD,,0,36.76,37.86,0.00535956,99757.47669,1502,MSD,6088400259,msd,https://mymsdspace.com/,

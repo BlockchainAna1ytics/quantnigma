@@ -1,7 +1,0 @@
-circulating_supply,ID,last_updated,max_supply,name,market_cap,percent_change_1h,percent_change_24h,percent_change_7d,price,volume_24h,rank,symbol,total_supply,website_slug,website,github
-,2663,1530802822,,StarCoin,,4.35,10.53,151.26,0.0285943,1785950.0,1380,KST,877631077.0,starcointv,http://www.starcoin.tv,
-,2406,1530802822,,InvestDigital,,0.96,-5.39,,0.0258044,1419520.0,1383,IDT,800000000.0,investdigital,https://investdigital.info/,https://github.com/investdigital
-,2201,1530802819,,WINCOIN,,0.3,7.84,47.38,0.56734,1307340.0,1386,WC,451276343.0,win-coin,https://wincoin.co/,https://github.com/Wincoinofficial/wincoin
-,2892,1530802822,,Wowbit,,-1.3,4.66,,0.290709,1260900.0,1387,WWB,1111074832.0,wowbit,http://wowoonet.com/ ,
-,2887,1530802822,,Dorado,,6.96,53.73,,0.025411,1228870.0,1388,DOR,695583782.0,dorado,https://www.dorado.tech/,
-,2888,1530802822,,CarBlock,,-0.85,1.35,,0.0331287,774887.0,1402,CAR,1800000000.0,carblock,https://www.carblock.io/,https://github.com/carblock-io
