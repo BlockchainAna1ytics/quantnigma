@@ -26,7 +26,7 @@ def generate_cmc_web():
     response = requests.get(cmc_url).text
     soup = BeautifulSoup(response, 'lxml')
     trs = soup.find_all('tr')
-    filename = './coin_github_careers/' + str(datetime.datetime.now()) + '.csv'
+    filename = './all_coins_files/' + str(datetime.datetime.now()) + '.csv'
     with open(filename, 'w', encoding='utf-8', newline='') as csvfile:
         cmc_web_writer = csv.writer(csvfile)
         cmc_web_writer.writerow(['name', 'symbol', 'marketcap_usd', 'price', 'volume', 'website', 'github', 'careers'])
@@ -72,7 +72,7 @@ def generate_cmc_web():
             print([name, symbol, marketcap_usd, price, volume, website, github, careers])
             cmc_web_writer.writerow([name, symbol, marketcap_usd, price, volume, website, github, careers])
             time.sleep(0.5)
-            break
+
 
 start = time.time()
 print("Scraping in progress... Please wait...")
